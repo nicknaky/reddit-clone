@@ -11,7 +11,9 @@
   "undef": true,
   "unused": true,
   "globals": {
-    "angular": false
-    "app": false
+    "angular": false,
+    "app": false,
+    "Firebase": false
+    
   }
 }
